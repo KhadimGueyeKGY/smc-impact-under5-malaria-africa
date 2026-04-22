@@ -1,0 +1,12 @@
+drug	gene	mutations	haplotype
+SP	dhfr/dhps	N51I + C59R + S108N	dhfr_triple
+SP	dhfr/dhps	A437G + N51I + C59R + S108N	sp_quadruple
+SP	dhfr/dhps	A437G + K540E + N51I + C59R + S108N	sp_quintuple
+SP	dhfr/dhps	A437G + K540E + A581G + N51I + C59R + S108N	sp_sextuple
+SP	dhfr/dhps	A437G + K540E + N51I + C59R + S108N + I164L	sp_sextuple_dhfr164
+AQ	pfmdr1	N86Y	mdr1_86Y
+AQ	pfmdr1	Y184F	mdr1_184F
+AQ	pfmdr1	N86Y + Y184F	mdr1_double
+AQ	pfcrt	K76T	pfcrt_76T
+AQ	pfcrt	M74I + N75E + K76T	pfcrt_triple
+AQ	pfmdr1/pfcrt	N86Y + Y184F + K76T	aq_resistant_profile
